@@ -1,0 +1,6 @@
+@ProjetoDesafioMvc_HostAddress = http://localhost:5039
+
+GET {{ProjetoDesafioMvc_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
